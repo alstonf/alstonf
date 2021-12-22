@@ -18,5 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alstonf&" alt="alstonf" /></p>
 
-##Snake eating my contribution graph
-![snake gif](https://github.com/YOUR_USERNAME/alstonf/blob/output/github-contribution-grid-snake.gif)
+#Snake eating my contribution graph
+
+![snake gif](https://github.com/alstonf/alstonf/blob/output/github-contribution-grid-snake.gif)
