@@ -28,8 +28,6 @@
 [![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 
-- Follow Me On
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alstonf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt = "alstonf" height="30" width="40" /></a>
